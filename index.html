@@ -35,6 +35,19 @@
         <section data-markdown="slides/slide-03.md"></section>
         <section data-markdown="slides/slide-04.md"></section>
 
+        <section>
+          <section
+            data-markdown="slides/slides-anwendungen-schneiden/slide-intro.md"
+          ></section>
+
+          <section
+            data-markdown="slides/slides-anwendungen-schneiden/slide-raw.md"
+          ></section>
+          <section
+            data-markdown="slides/slides-anwendungen-schneiden/slide-edited.md"
+          ></section>
+        </section>
+
         <section data-markdown="slides/slide-05.md"></section>
         <section>
           <section data-markdown="slides/slides-05/slide-url.md"></section>
@@ -79,11 +92,13 @@
       // - https://github.com/hakimel/reveal.js#dependencies
       Reveal.initialize({
         hash: true,
+        fragments: true,
         dependencies: [
           { src: "plugin/markdown/marked.js" },
           { src: "plugin/markdown/markdown.js" },
           { src: "plugin/highlight/highlight.js" },
-          { src: "plugin/notes/notes.js", async: true }
+          { src: "plugin/notes/notes.js", async: true },
+          { src: "plugin/zoom-js/zoom.js", async: true }
         ]
       });
     </script>
