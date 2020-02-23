@@ -5,7 +5,7 @@
 Ebenfalls ein "Klassiker", das getrennt gehostete Micro Frontend wird in die Zielseite via
 
 ```html
-<iframe src="https://product-app/inde.html"></iframe>
+<iframe src="https://product-app/index.html"></iframe>
 ```
 
 eingebunden.
