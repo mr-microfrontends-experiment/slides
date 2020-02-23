@@ -1,0 +1,1 @@
+## Vorteile von Micro Frontends
