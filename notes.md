@@ -7,7 +7,7 @@
   - Frontend Monolith + Backend Micro Services
 - Micro Frontend + Micro Service
 - Schneiden einer Applikation nach Funktionsbereichen, nicht nach Schichten
-- Vorteile von Micro Frontends
+- Design Systems
 - Herausforderungen und Nachteile
 - Möglichkeiten Micro Frontends zu implementieren
   - URL-Routing
