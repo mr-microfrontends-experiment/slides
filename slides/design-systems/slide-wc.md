@@ -5,4 +5,4 @@ Hier bieten sich besonders Bibliotheken aus Web Components an, da diese sich ein
 Beispiele (von großen Firmen):
 
 - [UI5 Web Components von SAP](https://sap.github.io/ui5-webcomponents/)
-- [Lion Web Components von ING](https://medium.com/ing-blog/ing-open-sources-lion-a-library-for-performant-accessible-flexible-web-components-22ad165b1d3d)
+- [Lion Web Components der ING](https://medium.com/ing-blog/ing-open-sources-lion-a-library-for-performant-accessible-flexible-web-components-22ad165b1d3d)

@@ -1,1 +1,0 @@
-## Herausforderungen bei Micro Frontends
