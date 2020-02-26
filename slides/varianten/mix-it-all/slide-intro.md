@@ -4,4 +4,4 @@ Es gibt inzwischen auch Bibliotheken, die versuchen beliebige Technologien mitei
 
 Beispiel: https://single-spa.js.org/
 
-Vorteil ist, dass die Feature Teams frei bei der Wahl der Technologien sind.
+Vorteil ist, dass die Feature Teams frei bei der Wahl der Technologien bleiben.

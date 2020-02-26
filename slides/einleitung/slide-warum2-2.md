@@ -1,3 +1,3 @@
-Micro Frontends versuchen das Problem zu mindern, indem kleinere Anwendungen auf unterschiedlichen Technologien entwickelt werden können.
+Micro Frontends versuchen das Problem abzumildern, indem kleinere Anwendungen unabhängig auf unterschiedlichen Technologiestacks entwickelt werden können.
 
-So kann man zumindest veraltete Micro Anwendungen Stück für Stück ablösen, neue Frameworks evaluieren und damit das Risiko für das &quot;große Ganze&quot; akzeptabel halten.
+So kann man zumindest veraltete Teil-Anwendungen Stück für Stück ablösen, neue Frameworks evaluieren und damit das Risiko für das &quot;große Ganze&quot; im Rahmen halten.

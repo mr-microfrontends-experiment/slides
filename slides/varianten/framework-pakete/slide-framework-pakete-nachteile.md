@@ -1,7 +1,7 @@
 #### Framework Pakete: Nachteile
 
-- Zentraler Master Build
-- Festlegung auf eine Technologie (größtenteils) inklusive Versionen
+- Zentraler Master Build bei jeder Teil-Aktualisierung
+- Festlegung auf eine Technologie inklusive Version
 - "Nur" logische Trennung über Architektur, keine echten Micro Frontends
-- App-Shell muss Struktur der Feature Pakete kennen
+- Haupt-Anwendung muss Struktur der einzelnen Teil-Pakete kennen
 - Ein fehlerhaftes Paket kann das Gesamtsystem lahmlegen

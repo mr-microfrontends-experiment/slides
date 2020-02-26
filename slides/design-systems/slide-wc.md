@@ -1,6 +1,6 @@
 ## Design Systeme
 
-Hier bieten sich besonders Bibliotheken aus Web Components an, da diese sich einfach in allen Frameworks und Technologien verwenden lassen, sei es nun Angular, Spring MVC oder das "legacy CMS System" der Firma.
+Hier bieten sich besonders Bibliotheken aus Web Components an, da diese sich als native Browsertechnologie einfach in allen Web-Technologien verwenden lassen, sei es nun Angular, Spring MVC oder das "legacy CMS System" der Firma.
 
 Beispiele (von großen Firmen):
 

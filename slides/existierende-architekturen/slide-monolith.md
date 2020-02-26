@@ -1,7 +1,7 @@
 ### Der Monolith
 
-Der Klassiker, die Gesamtanwendung besteht aus einer einzelnen Applikation, geschrieben in einer einheitlichen Technologie.
+Der Klassiker: Die Gesamtanwendung besteht aus einer einzelnen Applikation, entwickelt in einer einheitlichen Technologie (z.B. Spring, ASP.NET, PHP).
 
-Moderne Monolithen verwenden üblicherweise die MVC Architektur, es existieren aber noch genug ältere Anwendungen.
+Moderne Monolithen verwenden üblicherweise MVC, es existieren aber noch viele Anwendungen mit älteren Architekturen.
 
-Auch wenn es Architekturen gibt, Monolithen modularer zu gestalten, nimmt die Komplexität mit jeder neuen Funktion zu.
+Auch wenn es Möglichkeiten gibt, Monolithen modularer zu gestalten, nimmt die Komplexität mit jeder neuen Funktion zu.

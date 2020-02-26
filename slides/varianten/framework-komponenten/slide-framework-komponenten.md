@@ -1,6 +1,6 @@
 #### Framework Komponenten
 
-Als Framework Komponenten bezeichnet man Komponenten eines bestimmen Frameworks, die in Web Components gekapselt werden.
+Als Framework Komponenten bezeichnet man Teil-Anwendungen eines bestimmten Frameworks, die in native Web Components gekapselt werden.
 
 Diese lassen sich nun wie "normale" Web Components in beliebige Seiten einbetten.
 

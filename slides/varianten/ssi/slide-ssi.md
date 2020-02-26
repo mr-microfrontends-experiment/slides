@@ -2,4 +2,6 @@
 
 Ebenfalls eine seit langem existierende Technologie.
 
-Mehrere, unabhängig entwickelte Seiten werden direkt auf dem Webserver "zusammengeklebt". Der Browser merkt gar nicht, dass es ursprünglich einmal einzelne Seiten waren.
+Mehrere unabhängig entwickelte Seiten werden direkt auf dem Webserver "zusammengeklebt" und danach ausgeliefert.
+
+Der Browser merkt dabei gar nicht, dass es ursprünglich einmal einzelne Seiten waren.
